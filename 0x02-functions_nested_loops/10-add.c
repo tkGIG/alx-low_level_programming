@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *add: adding two integers
+ *add - adding two integers
  *@n1: first integer
  *@n2: second integer
  *Return: integer value
